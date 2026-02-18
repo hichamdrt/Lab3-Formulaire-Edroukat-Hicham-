@@ -47,6 +47,9 @@ MainActivity
 Screen2Activity
 <img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/dfedbf08-c3c9-4a86-a1c6-e71b049076d0" />
 
+ET apres en click sur retour
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/ec5c5b10-d387-4423-a5e7-bca99fdbdb1a" />
+
 
 
 
